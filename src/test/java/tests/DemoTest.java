@@ -17,6 +17,7 @@ import static org.junit.jupiter.api.Assertions.assertEquals;
 public class DemoTest extends TestBase {
 
     @BeforeEach
+
     public void beforeTest() {
         System.out.println("Before Test");
     }
