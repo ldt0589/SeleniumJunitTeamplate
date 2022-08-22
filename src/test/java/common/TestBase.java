@@ -12,6 +12,8 @@ public class TestBase {
     public static void beforeClass() {
         System.out.println("Before Class");
         DriverFactory.initializeDriver();
+
+
     }
 
     @AfterAll
