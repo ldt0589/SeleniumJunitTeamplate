@@ -27,6 +27,7 @@ public class DemoTest extends TestBase {
         WebDriver driver = LocalDriver.getDriver();
         driver.get("https://cacert.org/");
         //System.out.println("master updated");
+        System.out.println("1");
     }
 
     @AfterEach
