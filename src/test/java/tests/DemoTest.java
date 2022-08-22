@@ -32,6 +32,7 @@ public class DemoTest extends TestBase {
         System.out.println("commit test2");
         //System.out.println("commit test3");
         System.out.println("commit test");
+
     }
 
     @AfterEach
