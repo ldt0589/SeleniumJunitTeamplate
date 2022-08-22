@@ -28,7 +28,7 @@ public class DemoTest extends TestBase {
         WebDriver driver = LocalDriver.getDriver();
         driver.get("https://cacert.org/");
         System.out.println("commit test");
-
+        System.out.println("commit test2");
     }
 
     @AfterEach
