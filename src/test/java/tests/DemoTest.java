@@ -38,6 +38,6 @@ public class DemoTest extends TestBase {
 
     @AfterEach
     public void afterTest() {
-        System.out.println("After Test");
+        System.out.println("After Test abc");
     }
 }
